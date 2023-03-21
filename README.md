@@ -1,5 +1,8 @@
-# I am Ravi Prakash
-### An aspiring Data Analyst Certified from SkillEnble with Relevant and In Demand Tools and Projects.
+# Ravi Prakash
+### Aspiring Data Analyst
+
+
+#### I am Certified from SkillEnable with Relevant & In Demand Skills, Tools and Projects.
 
 ## Skills:
 #### SQL
